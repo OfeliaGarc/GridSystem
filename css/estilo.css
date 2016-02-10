@@ -62,12 +62,13 @@ p {
 	background-color: #f0ffff;
 	border-top: 1px solid black;
 }
-.conta .col-2 img {
+.conta div img {
 	margin: 16px;
 	width: 160px;
 	height: 160px;
 	border: 1px solid black;
 	padding: 5px;
+	float: left;
 }
 .contiene {
 	padding: 70px;
